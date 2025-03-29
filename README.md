@@ -1,6 +1,6 @@
 # Shop Navigation System – 
 
-This repository contains a comprehensive **Shop Finding and Navigation System**, developed as part of the **Data Structures and Algorithms (COMP5008)** unit at Curtin University. The system allows users to add, remove, and update shops, create connections between them, find paths using DFS and BFS, search shops by category, and sort them by ratings — all via a Python-based interactive menu.
+This repository contains a comprehensive **Shop Finding and Navigation System**, developed as part of the Data Structures and Algorithms. The system allows users to add, remove, and update shops, create connections between them, find paths using DFS and BFS, search shops by category, and sort them by ratings — all via a Python-based interactive menu.
 
 The application simulates real-world indoor navigation systems used in malls, airports, or commercial centers, and integrates key data structure concepts including:
 - Graphs
