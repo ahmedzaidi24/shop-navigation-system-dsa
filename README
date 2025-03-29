@@ -1,0 +1,20 @@
+## Synopsis
+DATA STRUCTURE AND ALGORITHM ASSIGNMENT 2023 COMP/5005
+
+##Contents
+finalcode.py : contains the complete code including all created classes, the shop navigation class, the menu and more.
+coversheet.pdf contains the signed pdf for declaration of orignality
+test_data.xlsx : includes orignal data from Belmont forum that is used to automatically add in 24 shops including multiple connections.
+README : contains all information about the contents in the folder DSA_Assignment_20972008
+
+
+## Dependencies
+Numpy : Used for creating arrays wyen needed
+Pandas : to read excel file 
+all other classes including linkedlists, stacks, queues, graphs, and more were self created and used within the finalcode.py
+
+##how to use
+Run the code finalcode.py it will give a number of options as a menu which anyone can opt and give further directions of which shop to add, which to remove, , which shop information to update, which connection to add, and which to remove. In the display section, user can opt to see it as an adjency list or matrix. They can also add an excel file to read data, then search a particular category to find all shops with that category as it is using hasshing. If the user wants to sort it they can use the option to sort them with heaps according to ratings.
+
+## Version information
+27/10/2023- Final version of Assignment
